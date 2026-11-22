@@ -1,0 +1,10 @@
+iot_monitor
+venv/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*~
+.vscode/
+.idea/
+
